@@ -1,0 +1,3 @@
+[submodule "StabilityMatrix"]
+	path = StabilityMatrix
+	url = https://github.com/LykosAI/StabilityMatrix.git
